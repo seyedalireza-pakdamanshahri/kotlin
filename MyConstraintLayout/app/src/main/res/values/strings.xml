@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Constraint Layout</string>
+    <string name="_00_00">00:00</string>
+    <string name="_5">5</string>
+    <string name="_10">10</string>
+    <string name="_15">15</string>
+    <string name="_20">20</string>
+</resources>
